@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/BaeSooKeun/BaeSooKeun/assets/138861359/f0bea1cd-0228-4678-b13b-1bacab54cd17)
 
 <!--
 **BaeSooKeun/BaeSooKeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
